@@ -1,6 +1,5 @@
 tensorflow
 streamlit
 streamlit_option_menu
-pickle
 pandas
 numpy
