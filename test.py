@@ -2,8 +2,8 @@ import pickle
 import pandas as pd
 import numpy as np
 import streamlit as st
-#import tensorflow as tf
-#from streamlit_option_menu import option_menu
+import tensorflow as tf
+from streamlit_option_menu import option_menu
 
 def preprocess_inp(data):
     data = data.copy()
